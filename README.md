@@ -1,4 +1,4 @@
-## Python tasks for beginners
+## Python tasks for beginners 
 1. **Variables (variables.py):**
    - Create a variable called `name` and assign your name to it. Print the variable.
    - Create a variable called `age` and assign your age to it. Print the variable.
